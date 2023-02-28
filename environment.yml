@@ -1,4 +1,4 @@
-name: lds-py
+name: lds-n-py
 channels:
   - conda-forge
 dependencies:

@@ -1,8 +1,8 @@
 ======
-lds-py
+lds-n-py
 ======
 
-This is the documentation of **lds-py**.
+This is the documentation of **lds-n-py**.
 
 .. note::
 

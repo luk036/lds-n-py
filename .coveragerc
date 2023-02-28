@@ -1,7 +1,7 @@
 # .coveragerc to control coverage.py
 [run]
 branch = True
-source = lds_py
+source = lds_n_py
 # omit = bad_file.py
 
 [paths]
